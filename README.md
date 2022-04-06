@@ -43,7 +43,7 @@
   <a href="https://codeforces.com/profile/Phantom_Knight" target="blank">
     <img src="https://img.icons8.com/external-tal-revivo-filled-tal-revivo/100/000000/external-codeforces-programming-competitions-and-contests-programming-community-logo-filled-tal-revivo.png" alt="Codeforces" />
   </a>
-  <a href="https://www.facebook.com/clubproptit" target="blank">
+  <a href="https://www.facebook.com/clubproptit" target="top">
     <img src="https://img.icons8.com/stickers/100/000000/p.png" alt="PROPTIT"/>
 </div>
 
