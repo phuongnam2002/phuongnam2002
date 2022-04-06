@@ -46,4 +46,3 @@
   <a href="https://www.facebook.com/clubproptit" target="top">
     <img src="https://img.icons8.com/stickers/100/000000/p.png" alt="PROPTIT"/>
 </div>
-
