@@ -1,6 +1,4 @@
-<a href="#" target="_blank">
-  <img src="svg/trungquandev.svg" width="1200" alt="PhuongNamPROPTIT" />
-</a>
+<h2 align="center">I'm PhuongNam from PROPTIT</h2>
 
 <h2 align="center">🛠 Computer Science 🛠</h2>
 <br>
