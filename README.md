@@ -18,7 +18,11 @@
 <br>
 <div align=center>
   <a href="#" title="PhuongNam">
-    <img align="center" width="400" src="https://github-readme-stats.vercel.app/api?username=phuongnam2002&theme=omni&show_icons=true&border_color=61dafb&hide_border=true" />
+    <div class="repo-card" data-repo="username/repository" data-theme="dark-theme"></div>
+  </a>
+  
+  <a href="#" title="PhuongNam">
+    <img align="right" width="431" src="https://github-readme-stats.vercel.app/api?username=phuongnam2002&theme=jolly&show_icons=true" />
   </a>
 </div>
 
