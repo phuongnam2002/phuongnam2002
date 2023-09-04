@@ -32,7 +32,7 @@
   <a href="https://www.facebook.com/phuong.namdang.7146557/" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png" alt="phuongnam-facebook" />
   </a>
-  <a href="mail to: phuongnamDPN2k2@gmail.com" target="top">
+  <a href="mailto:phuongnamDPN2k2@gmail.com" target="top">
     <img src="https://img.icons8.com/bubbles/100/000000/apple-mail.png" alt="phuongnam-email" />
   </a>
   <a href="https://codeforces.com/profile/Phantom_Knight" target="blank">
