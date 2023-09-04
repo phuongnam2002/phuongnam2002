@@ -18,7 +18,7 @@
 <br>
 <div align=center>
   <a href="#" title="PhuongNam">
-    <img align="center" width="431" src="https://github-readme-stats.vercel.app/api?username=phuongnam2002&theme=jolly&show_icons=true" />
+    <img align="center" width="431" src="[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=phuongnam2002&theme=jolly&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)" />
   </a>
 </div>
 
