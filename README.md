@@ -36,7 +36,7 @@
     <img src="https://img.icons8.com/bubbles/100/000000/apple-mail.png" alt="phuongnam-email" />
   </a>
   <a href="https://www.linkedin.com/in/dang-phuong-nam-157912288/" target="blank">
-    <img src="https://img.icons8.com/fluency/48/linkedin.png" alt="LinkedIn" />
+    <img src="https://img.icons8.com/fluency/96/linkedin.png" alt="LinkedIn" />
   </a>
   <a href="https://codeforces.com/profile/Goku_NLP" target="blank">
     <img src="https://img.icons8.com/external-tal-revivo-filled-tal-revivo/100/000000/external-codeforces-programming-competitions-and-contests-programming-community-logo-filled-tal-revivo.png" alt="Codeforces" />
